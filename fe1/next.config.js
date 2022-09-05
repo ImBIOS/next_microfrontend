@@ -13,7 +13,7 @@ const nextConfig = {
         remoteType: "var",
         exposes: {
           // expose all component here.
-          "./header": "./src/component/Header",
+          "./header": "./component/Header",
         },
         shared: [
           {
